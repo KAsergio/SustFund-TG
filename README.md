@@ -2,29 +2,29 @@
 This project aims to build a blockchain platform to finance sustainability projects in rural areas of Togo or elsewhere in Africa.
 A decentralized blockchain-based crowdfunding platform for sustainable energy and agriculture projects in rural Africa.
 
-# 🌍 Project Summary
+## 🌍 Project Summary
 TogoGridChain is a Web3 platform that enables the funding of impactful projects in energy access and sustainable agriculture across African rural communities. The platform uses smart contracts and a native token (TogoEnergyToken - TET) to facilitate transparryent investment, automated revenue-sharing, and community empowerment.
 
-# 🚀 Features
+## 🚀 Features
 
 • 🪙 Tokenized investment with TogoEnergyToken (ERC-20)
 • 🔗 Blockchain-based smart contracts (Solidity, Hardhat)
-> 📊 Dashboard for investors and project developers
-> 📡 IoT/Oracles integration for real-world data (energy production, crop yield)
+• 📊 Dashboard for investors and project developers
+• 📡 IoT/Oracles integration for real-world data (energy production, crop yield)
 
 📱 Mobile-first, low-bandwidth optimized interface
 
-# 🧭 Use Cases
+## 🧭 Use Cases
 
-> Solar mini-grids for off-grid villages
+• Solar mini-grids for off-grid villages
 
-Solar-powered irrigation and cold storage
+• Solar-powered irrigation and cold storage
 
-Agroecological farming cooperatives
+• Agroecological farming cooperatives
 
-Renewable-powered agro-processing units
+• Renewable-powered agro-processing units
 
-# 💼 Target Users
+## 💼 Target Users
 
 African diaspora & impact investors
 
