@@ -1,6 +1,6 @@
 # SustFund-TG
-This project aims to build a blockchain platform to finance sustainability projects in rural areas of Togo or elsewhere in Africa.
-A decentralized blockchain-based crowdfunding platform for sustainable energy and agriculture projects in rural Africa.
+This project aims to build a decentralized blockchain-based crowdfunding platform to finance sustainability projects in rural areas of Togo or elsewhere in Africa.
+
 
 ## 🌍 Project Summary
 TogoGridChain is a Web3 platform that enables the funding of impactful projects in energy access and sustainable agriculture across African rural communities. The platform uses smart contracts and a native token (TogoEnergyToken - TET) to facilitate transparryent investment, automated revenue-sharing, and community empowerment.
