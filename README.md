@@ -50,3 +50,4 @@ Frontend: React.js, Tailwind CSS, Ethers.js
 Backend: FastAPI, PostgreSQL
 
 Deployment: Polygon Mumbai (testnet)
+
